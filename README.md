@@ -17,6 +17,6 @@ The code is structured as a Visual Studio Solution for Windows 10. Please note t
 1. Open the solution file in Visual Studio.
 2. Build the solution.
 3. Run the executable to observe the image processing effects.
-4. If it fails, just open the files in Visual Studio Code and go through them, while reading the comments. 
-5. 
+4. If it fails, just open the files in Visual Studio Code and go through them, while reading the comments.
+   
 Feel free to explore and learn from the provided code!
